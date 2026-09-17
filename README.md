@@ -1,6 +1,5 @@
-#AI Based Public Records Management System
-
-#📌 Project Overview
+AI Based Public Records Management System
+📌 Project Overview
 
 The AI Based Public Records Management System is a Data Structures and Algorithms (DSA) based project designed to efficiently store, organize, search, and manage large amounts of public records.
 
@@ -8,7 +7,7 @@ The system uses appropriate data structures and algorithms to make record manage
 
 The project demonstrates how DSA concepts can be applied to a real-world record management problem.
 
-#🎯 Objectives
+🎯 Objectives
 
 Efficiently store and manage public records.
 
@@ -24,7 +23,7 @@ Use AI techniques to improve record classification and search.
 
 Provide a simple and user-friendly interface for managing records.
 
-#🧩 Key Features
+🧩 Key Features
 1. Record Management
 
 Users can add, update, delete, and view public records.
@@ -108,7 +107,7 @@ Recently added records
 
 Number of active/inactive records
 
-#🧠 DSA Concepts Used
+🧠 DSA Concepts Used
 
 The main purpose of this project is to demonstrate the practical application of Data Structures and Algorithms.
 
@@ -142,7 +141,7 @@ Tree Traversal
 
 String/Keyword Matching
 
-#🤖 AI Component
+🤖 AI Component
 
 The AI module works alongside the DSA-based record management system.
 
@@ -165,7 +164,7 @@ Result Display
 
 The AI component can be implemented using techniques such as Natural Language Processing (NLP) or a machine-learning classification model, depending on the project requirements.
 
-#🏗️ System Architecture
+🏗️ System Architecture
                 ┌─────────────────────┐
                 │       User          │
                 └──────────┬──────────┘
@@ -187,7 +186,7 @@ The AI component can be implemented using techniques such as Natural Language Pr
               │   Records Database  │
               └─────────────────────┘
 
-#⚙️ Working
+⚙️ Working
 
 The user enters or uploads a public record.
 
@@ -205,7 +204,7 @@ Sorting algorithms organize records according to the selected criteria.
 
 The system displays the requested information to the user.
 
-#⏱️ Complexity Analysis
+⏱️ Complexity Analysis
 
 The complexity depends on the data structures selected in the implementation.
 
@@ -221,7 +220,7 @@ Heap Insertion	Heap	O(log n)
 
 These operations demonstrate how choosing the right data structure can significantly improve the efficiency of a record management system.
 
-#💡 Advantages
+💡 Advantages
 
 Faster record retrieval
 
@@ -235,7 +234,7 @@ Supports multiple search and sorting techniques
 
 Can be extended with advanced AI features
 
-#🔮 Future Scope
+🔮 Future Scope
 
 The system can be extended with:
 
@@ -257,7 +256,7 @@ Advanced analytics and visualization
 
 Recommendation-based record retrieval
 
-#📚 Learning Outcomes
+📚 Learning Outcomes
 
 Through this project, we learn how to:
 
